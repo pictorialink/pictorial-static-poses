@@ -5,7 +5,7 @@
         {
           "name_en": "Reset to initial",
           "name_zh": "恢复初始",
-          "blurb": "assets/resource/images/poses/pose1.jpg",
+          "blurb": "assets/resource/poses/pose1.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -56,7 +56,7 @@
         {
           "name_en": "Walk",
           "name_zh": "走路",
-          "blurb": "assets/resource/images/poses/pose2.jpg",
+          "blurb": "assets/resource/poses/pose2.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -112,7 +112,7 @@
         {
           "name_en": "Stand",
           "name_zh": "站立",
-          "blurb": "assets/resource/images/poses/pose3.jpg",
+          "blurb": "assets/resource/poses/pose3.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -163,7 +163,7 @@
         {
           "name_en": "Cross arms",
           "name_zh": "交叉双臂",
-          "blurb": "assets/resource/images/poses/pose4.jpg",
+          "blurb": "assets/resource/poses/pose4.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -214,7 +214,7 @@
         {
           "name_en": "Kneel",
           "name_zh": "跪地",
-          "blurb": "assets/resource/images/poses/pose5.jpg",
+          "blurb": "assets/resource/poses/pose5.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -270,7 +270,7 @@
         {
           "name_en": "Jog",
           "name_zh": "慢跑",
-          "blurb": "assets/resource/images/poses/pose6.jpg",
+          "blurb": "assets/resource/poses/pose6.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
@@ -326,7 +326,7 @@
         {
           "name_en": "Sprint",
           "name_zh": "快跑",
-          "blurb": "assets/resource/images/poses/pose7.jpg",
+          "blurb": "assets/resource/poses/pose7.jpg",
           "values": {
             "coords": {
               "nose": [0.0, -210.0, 0.0],
