@@ -1,5 +1,9 @@
 [
     {
+      "title_new": {
+            "en": "Preset Posture",
+            "zh"："基础姿势"
+      },
       "title": "基础姿势",
       "items": [
         {
